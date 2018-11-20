@@ -4,12 +4,12 @@
  * and open the template in the editor.
  */
 
-package controlador;
+package com.viverescarlita.controlador;
 
-import modelo.DetalleOperacion;
-import modelo.Pallets;
-import modelo.Productos;
-import modelo.RecursosEnsamble;
+import com.viverescarlita.modelo.DetalleOperacion;
+import com.viverescarlita.modelo.Pallets;
+import com.viverescarlita.modelo.Productos;
+import com.viverescarlita.modelo.RecursosEnsamble;
 
 /**
  * @Instituto Rumiñahui
